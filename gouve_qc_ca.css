@@ -1,0 +1,49 @@
+body {
+  background-color:#122 !important;
+  color:#fff !important;
+  border-radius: 15px !important;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.19) !important;
+}
+
+td {
+  background-color:#112 !important;
+  color:#fff !important;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.1) inset !important;
+}
+
+th {
+  background-color:#048 !important;
+  color:#fff !important;
+}
+
+h1 {
+  background-color:#122 !important;
+  color:#AAD !important;
+  border-radius: 15px;
+}
+
+.css-1c5ffgt{
+  background-color:#234 !important;
+  color:#fff !important;
+  border-radius: 15px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+.filterRegion, .MuiInputBase-root{
+  background-color:#234 !important;
+  color:#fff !important;
+  border-radius: 15px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+input, button{
+  background-color:#122 !important;
+  color:#FFD !important;
+  border-radius: 15px !important;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2) !important;
+}
+
+label {
+  color:#FFD !important;
+  border-radius: 15px !important;
+}
